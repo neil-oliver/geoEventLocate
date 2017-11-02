@@ -1,0 +1,28 @@
+Shit that we need to fix / add / test
+
+Add:
+
+Description for events
+Tags for each artist to events
+
+change main event support from lastfm to songkick
+add lastfm support if songkick returns no results
+
+Fix:
+
+possible errors at nathans work. need to sort
+
+Test:
+
+Testing needs to be done on the songkick script.
+
+
+
+
+Sorted (dont delete stuff just move it here)
+
+23-11-2012 15:50 - Changelog created.
+
+23-11-2012 22:01 redirect when at a venue and the event is happening. We know it works when the event already exists, but testing is needed for when the event is being pulled from Last.fm?
+
+24-11-2012 20:50 Added support to use songkick to populate events.
